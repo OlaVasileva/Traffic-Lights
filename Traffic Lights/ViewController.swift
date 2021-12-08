@@ -32,9 +32,9 @@ class ViewController: UIViewController {
         yellowLight.alpha = lightIsOff
         greenLight.alpha = lightIsOff
         
-        redLight.layer.cornerRadius = 70
-        yellowLight.layer.cornerRadius = 70
-        greenLight.layer.cornerRadius = 70
+        redLight.layer.cornerRadius = 65
+        yellowLight.layer.cornerRadius = 65
+        greenLight.layer.cornerRadius = 65
         
         startButton.titleLabel?.text = "START"
         
